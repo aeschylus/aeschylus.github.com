@@ -23,5 +23,5 @@ setTimeout("$('#albumArt').vintage()", 3000);
 
 $(function() {
    generate_design()
-   $("#infoButton").click(function { $("infoPane").show});
+   $("#infoButton").click(function() { $("infoPane").show});
 });
